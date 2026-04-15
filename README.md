@@ -5,7 +5,7 @@ Name: Your Name
 Index: Your Index  
 
 ## Structure
-- notebooks → Colab notebooks
+- notebooks → VS Code
 - images → input images
 - results → output images
 - src → functions
